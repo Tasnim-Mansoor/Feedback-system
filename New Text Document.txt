@@ -1,0 +1,16 @@
+  <html>
+<body background-color="black">
+
+<img src="f5.jpeg" alt="Paris" width="270" height="270">
+<img src="g1.jpeg" alt="Paris" width="270" height="270">
+<img src="g2.jpeg" alt="Paris" width="270" height="270">
+<br>
+
+				
+
+				
+<img src="g7.jpeg" alt="Paris" width="270" height="270">
+<img src="g4.png" alt="Paris" width="270" height="270">
+<img src="g5.png" alt="Paris" width="270" height="270">
+</body>
+</html>
